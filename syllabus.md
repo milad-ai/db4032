@@ -8,6 +8,8 @@ description: Course policies and information.
 
 ## Learning goals
 
+## Topics Covered
+
 ## Textbook
 The material presented in the course is sufficient for students to successfully pass the examination. However, for those who wish to engage in further study, the following reference is recommended:
 
