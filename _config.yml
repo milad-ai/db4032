@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Crafting Software
-tagline: 17-950 Crafting Software
-description: Welcome to Crafting Software
-author: Michael Hilton and Josh Sunshine
+title: DB
+tagline: DB
+description: Welcome to DB
+author: Milad Vazan
 #baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://cmu-crafting-software.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://dbsbu.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 logo: "/assets/images/crafting_software_header_noBG.png"
 
