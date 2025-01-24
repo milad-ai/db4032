@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HW01  Version Control
+title: HW01  
 permalink: /assignments/hw1
 parent: Assignments
 published: true
