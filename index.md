@@ -19,7 +19,7 @@ seo:
 
 
 
-## Welcome to DB-->
+## Course Objectives
 
 This course focuses on the design and modeling of databases. Students will learn how to develop database applications, beginning with the design of an Entity-Relationship (ER) model, then mapping it to a relational model, and finally transforming this second model into an application. Throughout this course, students will not only acquire theoretical knowledge but also essential practical skills for working with database systems. In the practical section of the course, PostgreSQL will be utilized as a powerful and open-source database management system.
 
