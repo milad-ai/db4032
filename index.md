@@ -17,6 +17,12 @@ seo:
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
+## Instructors
+
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
 
 
 ## Course Objectives
@@ -40,11 +46,6 @@ This course focuses on the design and modeling of databases. Students will learn
  - There will be several assignments throughout the course for students to practice the material covered.
  - There will be a summative final project, in which students will integrate the tools and techniques they have learned into a cohesive whole. 
 
-# Staff
 
-## Instructors
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-{% for staffer in instructors %}
-{{ staffer }}
-{% endfor %}
+
