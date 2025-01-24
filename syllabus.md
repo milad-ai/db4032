@@ -8,7 +8,10 @@ description: Course policies and information.
 
 ## Learning goals
 
+## Textbook
+The material presented in the course is sufficient for students to successfully pass the examination. However, for those who wish to engage in further study, the following reference is recommended:
 
+- Abraham Silberschatz, Henry F. Korth, and S. Sudarshan, *Database Systems Concepts*, 6th ed., McGraw-Hill, 2010.
 ## Structure of the course
 <!-- Meets twice weekly -->
 - There will be several assignments throughout the course for students to practice the material covered.
