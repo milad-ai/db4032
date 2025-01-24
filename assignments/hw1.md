@@ -6,7 +6,7 @@ parent: Assignments
 published: true
 ---
 
-# Homework 1 {: .label .label-red }
+# Homework 1 
 
 In this homework, you will be practicing using 
 
