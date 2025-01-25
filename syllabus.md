@@ -6,8 +6,6 @@ description: Course policies and information.
 
 # Syllabus
 
-## Learning goals
-
 ## Topics Covered
 
 ## Textbook
