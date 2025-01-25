@@ -22,4 +22,21 @@ description: A listing of all the course staff members.
 {{ staffer }}
 {% endfor %}
 {% endif %}
-### About the Instructor
+## About the Instructor
+## Education
+
+**Shahid Beheshti University**  
+2023 - 2027  
+Computer Science - Soft Computing and Artificial Intelligence  
+Ph.D.  
+Cumulative Grade: 18.94/20
+
+**University of Tabriz**  
+2018 - 2020  
+Computer Science - Soft Computing and Artificial Intelligence  
+M.S.  
+Cumulative Grade: 19.02/20
+
+## Contact Information
+
+**Phone:** +989370174459
