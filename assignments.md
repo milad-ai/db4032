@@ -10,16 +10,14 @@ nav_order: 3
 | Topic | Readings|
 |-------|-----------------------------|
 | Introduction | Lecture Notes|
-| Relational Model | Lecture Notes|
-| SQL Part 1 (Queries and Joins) | Lecture Notes|
-| SQL Part 2 (Aggregates, etc...) | Lecture Notes |
-| Relational Languages 1 | Lecture Notes |
-| Relational Languages 2 | Lecture Notes |
-| Database Design / E-R Model | Lecture Notes |
+| Introduction to the Relational
+Model | Lecture Notes|
+| SQL | Lecture Notes|
+| Formal Relational Query
+Languages | Lecture Notes |
+| Database Design and the E-R
+Model | Lecture Notes |
 | Relational Database Design | Lecture Notes |
-| Storage and File Structure | Lecture Notes |
-| Spring Break | -, - |
-| Indexing and Hashing | Lecture Notes |
 | Query Processing | Lecture Notes |
 | Query Optimization | Lecture Notes |
 
