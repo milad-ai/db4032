@@ -40,6 +40,28 @@ Computer Science - Soft Computing and Artificial Intelligence
   - Ranked 1st among M.S students of CS
   - Selected as the Exceptionally Talented
 
+
+## TEACHING EXPERIENCE
+
+### Kashmar Institute of Higher Education (Spring 2023  )
+- **Data Structures and Algorithms**  
+- **Computer Architecture**  
+- **Principles of Computer Systems**  
+- **Theory of Languages and Automata**  
+- **Principles of Data Science**   
+
+### Kashmar Institute of Higher Education (Fall 2022)
+- **Artificial Intelligence and Expert Systems**  
+- **Computer Architecture**  
+
+### Islamic Azad University, Bardaskan Branch (Fall 2022)
+- **Artificial Intelligence**  
+- **Data Structure**  
+- **Computer Architecture**  
+
+  
+
+
 ### Contact Information
 
 **Phone:** +989370174459
