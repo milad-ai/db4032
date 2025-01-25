@@ -21,7 +21,7 @@ The material presented in the course is sufficient for students to successfully 
 - There will be several assignments throughout the course for students to practice the material covered.
 - There will be a summative final project, in which students will integrate the tools and techniques they have learned into a cohesive whole. 
 
-## Evaluation in the course will be approximately as follows:
+## Grading
 - Class attendance and participation: 2 points 
 - Homeworks: 2 points
 - Final project: 4 points 
