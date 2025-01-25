@@ -48,10 +48,10 @@ Computer Science - Soft Computing and Artificial Intelligence
 - **Computer Architecture**  
 - **Principles of Computer Systems**  
 - **Theory of Languages and Automata**  
-- **Principles of Data Science**   
+- **Principles of Data Science**  [link](http://ds.miladvazan.ir/) 
 
 ### Kashmar Institute of Higher Education (Fall 2022)
-- **Artificial Intelligence and Expert Systems**  
+- **Artificial Intelligence and Expert Systems** [link](http://ai1401k.miladvazan.ir/) 
 - **Computer Architecture**  
 
 ### Islamic Azad University, Bardaskan Branch (Fall 2022)
