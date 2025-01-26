@@ -8,12 +8,12 @@ description: Course policies and information.
 
 ## Topics Covered
 - The Relational Data Model and Relational Algebra, Relational Calculus, Tuple Calculus
-- Standard Query Language (SQL)
+- Standard Query Language (SQL) 
 - The Entity-Relationship Data Model
 - Database Design Theory
 - Introduction to PostgreSQL
-- Introduction to SQL With Python
-- Introduction to NoSQL
+- Python database integration (connecting Python programs to both SQL and NoSQL databases)
+- Introduction to NoSQL (comparing and contrasting MongoDB with relational systems)
 
 ## Textbook
 The material presented in the course is sufficient for students to successfully pass the examination. However, for those who wish to engage in further study, the following reference is recommended:
