@@ -16,9 +16,11 @@ description: Course policies and information.
 - Python database integration (connecting Python programs to both SQL and NoSQL databases)
 
 ## Recommended reading
-The material presented in the course is sufficient for students to successfully pass the examination. However, for those who wish to engage in further study, the following reference is recommended:
+The material presented in the course is sufficient for students to successfully pass the examination. However, for those who wish to engage in further study, the following references are recommended:
 
-- Abraham Silberschatz, Henry F. Korth, and S. Sudarshan, *Database Systems Concepts*, 6th ed., McGraw-Hill, 2010.
+- Database System Concepts, By A. Silberschartz, H.F. Korth and S. Sudarshan, 7th Edition, 2020
+- Fundamental of Database Systems, By R. Elmasri, 7th Edition, 2015
+- An Introduction to Database Systems, By C.J. Date, 8th Edition, 2003
 
 ## Homework Assignments
 
