@@ -34,6 +34,18 @@ The material presented in the course is sufficient for students to successfully 
 - Final exam: 8 points
 
 
+## Seeking Assistance
+
+Here are the available help resources, organized by the urgency of your issue:
+
+### Messaging
+Our course will utilize a Telegram group (link to be provided in class) as the primary communication platform for announcements and discussions. This is an ideal space for asking questions that can be answered by anyone. It's best to use this resource for non-urgent inquiries.
+
+### Talk with the Instructor
+For any issues at all, please reach out to the instructor:
+
+- Speak with me before class  
+- Raise your hand or speak up during class
 
 ## A note on self care. 
 Please take care of yourself. Do your best to maintain a healthy lifestyle this semester by eating well, exercising, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress. 
