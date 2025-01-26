@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Database System
 tagline: Welcome to Database Management System
-description: Database Management System | Shahid Beheshti University |  Faculty of Mathematical Science
+description: Shahid Beheshti University |  Faculty of Mathematical Science
 author: Milad Vazan
 #baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://dbsbu.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
