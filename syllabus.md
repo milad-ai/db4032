@@ -47,5 +47,13 @@ For any issues at all, please reach out to the instructor:
 - Speak with me before class  
 - Raise your hand or speak up during class
 
+## Attendance and Participation
+
+Attendance is required, and exceeding four absences may result in a penalty of up to 2 points off your total grade. Active participation in both in-class activities and the online message board is highly encouraged.
+
+
 ## A note on self care. 
 Please take care of yourself. Do your best to maintain a healthy lifestyle this semester by eating well, exercising, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress. 
+
+Copyright
+© 2025. All rights reserved.
