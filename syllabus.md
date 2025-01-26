@@ -22,7 +22,7 @@ The material presented in the course is sufficient for students to successfully 
 
 ## Homework Assignments
 
-Throughout the course, students will complete several homework assignments aimed at reinforcing the concepts covered in lectures and reading materials. The due dates for these assignments will be posted on this website.
+Throughout the course, students will complete several homework assignments aimed at reinforcing the concepts covered in lectures and reading materials (See the [homework page](https://dbsbu.github.io//assignments/), which will be updated during the course). The due dates for these assignments will be posted on this website.
 
 ## Exams
 
