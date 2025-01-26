@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Database System
-tagline: DB
-description: Welcome to Database Management System
+tagline: Welcome to Database Management System
+description: Database Management System | Shahid Beheshti University |  Faculty of Mathematical Science
 author: Milad Vazan
 #baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://dbsbu.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
