@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DB SBU
+title: home
 ---
 
 # {{ site.tagline }}
