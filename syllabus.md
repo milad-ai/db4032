@@ -21,7 +21,7 @@ The material presented in the course is sufficient for students to successfully 
 - Database System Concepts, By A. Silberschartz, H.F. Korth and S. Sudarshan, 7th Edition, 2020
 - Fundamental of Database Systems, By R. Elmasri, 7th Edition, 2015
 - An Introduction to Database Systems, By C.J. Date, 8th Edition, 2003
-- پایگاه داده، روحانی رانکوهی
+
 
 ## Homework Assignments
 
