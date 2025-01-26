@@ -20,6 +20,13 @@ The material presented in the course is sufficient for students to successfully 
 
 - Abraham Silberschatz, Henry F. Korth, and S. Sudarshan, *Database Systems Concepts*, 6th ed., McGraw-Hill, 2010.
 
+## Homework Assignments
+
+Throughout the course, students will complete several homework assignments aimed at reinforcing the concepts covered in lectures and reading materials. The due dates for these assignments will be posted on this website.
+
+## Exams
+
+The course will include two exams. Both exams will assess the required readings and topics covered in class. The first exam will be an "in-class" midterm, while the second will be a final exam scheduled during the University's final examination period at the end of the semester.
 
 ## Structure of the course
 <!-- Meets twice weekly -->
@@ -51,6 +58,9 @@ For any issues at all, please reach out to the instructor:
 
 Attendance is required, and exceeding four absences may result in a penalty of up to 2 points off your total grade. Active participation in both in-class activities and the online message board is highly encouraged.
 
+## Collaboration Policy
+
+We expect that all work on homework assignments, projects, and exams will be completed independently. You are not permitted to copy any part of another student's solution, collaborate with another student on your project or homework, or use solutions from unauthorized sources, including the Internet.
 
 ## **Generative AI Usage Guidelines**
 
