@@ -60,7 +60,7 @@ Attendance is required, and exceeding four absences may result in a penalty of u
 
 ## Collaboration Policy
 
-We expect that all work on homework assignments, projects, and exams will be completed independently. You are not permitted to copy any part of another student's solution, collaborate with another student on your project or homework, or use solutions from unauthorized sources, including the Internet.
+You are encouraged to discuss the content of this course with anyone you like; however, it is essential to maintain academic integrity in your work. All homework assignments, projects, and exams must be completed independently, meaning you are not permitted to copy any part of another student’s solution, collaborate with others on your assignments, or use solutions from unauthorized sources, including the Internet. Therefore, the solution you submit for each assignment must be solely your own, reflecting your understanding and effort.
 
 ## **Generative AI Usage Guidelines**
 
