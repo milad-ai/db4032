@@ -1,14 +1,21 @@
 ---
 layout: page
-title: Resources
+title: Lecture Notes
 permalink: /resources/
 has_children: false
 nav_order: 2
 published: true
 ---
+# Readings
 
-# Resources
-
-The material presented in the course is sufficient for students to successfully pass the examination. However, for those who wish to engage in further study, the following reference is recommended:
-
-- Abraham Silberschatz, Henry F. Korth, and S. Sudarshan, *Database Systems Concepts*, 6th ed., McGraw-Hill, 2010.
+| Topic | Readings|
+|-------|-----------------------------|
+| Introduction | Lecture Notes|
+| Introduction to the Relational Model | Lecture Notes|
+| Formal Relational Query Languages | Lecture Notes |
+| Database Design and the E-R Model | Lecture Notes |
+| Relational Database Design | Lecture Notes |
+| SQL | Lecture Notes 1, Lecture Notes 2, Lecture Notes 3|
+| PostgreSQL | Lecture Notes |
+| NoSQL | Lecture Notes |
+| SQL using Python | Lecture Notes |
