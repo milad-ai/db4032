@@ -8,7 +8,7 @@ description: Course policies and information.
 
 ## Topics Covered
 - The Relational Data Model and Relational Algebra, Relational Calculus, Tuple Calculus
-- Standard Query Language (SQL) 
+- Structured Query Language (SQL) 
 - The Entity-Relationship Data Model
 - Database Design Theory
 - Introduction to PostgreSQL
