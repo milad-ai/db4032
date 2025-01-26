@@ -15,7 +15,7 @@ description: Course policies and information.
 - Introduction to NoSQL (comparing and contrasting MongoDB with relational systems)
 - Python database integration (connecting Python programs to both SQL and NoSQL databases)
 
-## Textbook
+## Recommended reading
 The material presented in the course is sufficient for students to successfully pass the examination. However, for those who wish to engage in further study, the following reference is recommended:
 
 - Abraham Silberschatz, Henry F. Korth, and S. Sudarshan, *Database Systems Concepts*, 6th ed., McGraw-Hill, 2010.
@@ -51,6 +51,14 @@ For any issues at all, please reach out to the instructor:
 
 Attendance is required, and exceeding four absences may result in a penalty of up to 2 points off your total grade. Active participation in both in-class activities and the online message board is highly encouraged.
 
+
+## **Generative AI Usage Guidelines**
+
+You are encouraged to use Generative AI tools like ChatGPT for general coding-related queries. However, refrain from asking these tools to directly solve problems from the course problem sets. Below are examples of acceptable questions:
+1. How can I remove duplicates in a SQL query?
+2. How do I handle database connection errors in Python?
+3. What are the differences between INNER JOIN and LEFT JOIN in SQL?
+4. What libraries are available for connecting Python to PostgreSQL?
 
 ## A note on self care. 
 Please take care of yourself. Do your best to maintain a healthy lifestyle this semester by eating well, exercising, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress. 
