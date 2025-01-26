@@ -12,8 +12,8 @@ description: Course policies and information.
 - The Entity-Relationship Data Model
 - Database Design Theory
 - Introduction to PostgreSQL
-- Python database integration (connecting Python programs to both SQL and NoSQL databases)
 - Introduction to NoSQL (comparing and contrasting MongoDB with relational systems)
+- Python database integration (connecting Python programs to both SQL and NoSQL databases)
 
 ## Textbook
 The material presented in the course is sufficient for students to successfully pass the examination. However, for those who wish to engage in further study, the following reference is recommended:
