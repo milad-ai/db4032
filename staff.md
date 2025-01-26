@@ -60,8 +60,9 @@ Computer Science - Soft Computing and Artificial Intelligence
 - **Computer Architecture**  
 
   
-
+<!--
 
 # Contact Information
 
 **Phone:** +989370174459
+-->
