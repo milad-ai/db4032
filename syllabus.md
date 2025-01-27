@@ -22,6 +22,10 @@ The material presented in the course is sufficient for students to successfully 
 - Fundamental of Database Systems, By R. Elmasri, 7th Edition, 2015
 - An Introduction to Database Systems, By C.J. Date, 8th Edition, 2003
 
+## Structure of the course
+<!-- Meets twice weekly -->
+- There will be several assignments throughout the course for students to practice the material covered.
+- There will be a summative final project, in which students will integrate the tools and techniques they have learned into a cohesive whole. 
 
 ## Homework Assignments
 
@@ -31,10 +35,9 @@ Throughout the course, students will complete several homework assignments aimed
 
 The course will include two exams. Both exams will assess the required readings and topics covered in class. The first exam will be an "in-class" midterm, while the second will be a final exam scheduled during the University's final examination period at the end of the semester.
 
-## Structure of the course
-<!-- Meets twice weekly -->
-- There will be several assignments throughout the course for students to practice the material covered.
-- There will be a summative final project, in which students will integrate the tools and techniques they have learned into a cohesive whole. 
+## Attendance and Participation
+
+Attendance is required, and exceeding four absences may result in a penalty of up to 2 points off your total grade. Active participation in both in-class activities and the online message board is highly encouraged.
 
 ## Grading
 - Class attendance and participation: 2 points 
@@ -57,9 +60,6 @@ For any issues at all, please reach out to the instructor:
 - Speak with me before class  
 - Raise your hand or speak up during class
 
-## Attendance and Participation
-
-Attendance is required, and exceeding four absences may result in a penalty of up to 2 points off your total grade. Active participation in both in-class activities and the online message board is highly encouraged.
 
 ## Collaboration Policy
 
