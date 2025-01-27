@@ -5,7 +5,7 @@ description: Course policies and information.
 ---
 
 # Syllabus
-Download the [syllabus]()
+**Download the [syllabus]()**
 ## Topics Covered
 - The Relational Data Model and Relational Algebra, Relational Calculus, Tuple Calculus
 - Structured Query Language (SQL) 
@@ -16,7 +16,7 @@ Download the [syllabus]()
 - Python database integration (connecting Python programs to both SQL and NoSQL databases)
 
 ## Recommended reading
-The material presented in the course is sufficient for students to successfully pass the examination. However, for those who wish to engage in further study, the following references are recommended:
+**The material presented in the course is sufficient for students to successfully pass the examination.** However, for those who wish to engage in further study, the following references are recommended:
 
 - Database System Concepts, By A. Silberschartz, H.F. Korth and S. Sudarshan, 7th Edition, 2020
 - Fundamental of Database Systems, By R. Elmasri, 7th Edition, 2015
@@ -33,18 +33,18 @@ Throughout the course, students will complete several homework assignments aimed
 
 ## Exams
 
-The course will include two exams. Both exams will assess the required readings and topics covered in class. The first exam will be an "in-class" midterm, while the second will be a final exam scheduled during the University's final examination period at the end of the semester.
+The course will include **two exams**. Both exams will assess the required readings and topics covered in class. The first exam will be an "in-class" midterm, while the second will be a final exam scheduled during the University's final examination period at the end of the semester.
 
 ## Attendance and Participation
 
-Attendance is required, and exceeding four absences may result in a penalty of up to 2 points off your total grade. Active participation in both in-class activities and the online message board is highly encouraged.
+**Attendance is required**, and exceeding four absences may result in a penalty of up to 2 points off your total grade. Active participation in both in-class activities and the online message board is highly encouraged.
 
 ## Grading
-- Class attendance and participation: 2 points 
-- Homeworks: 4 points
-- Final project: 3 points 
-- Midterm exam: 4 points
-- Final exam: 7 points
+- Class attendance and participation: **2** points 
+- Homeworks: **4** points
+- Final project: **3** points 
+- Midterm exam: **4** points
+- Final exam: **7** points
 
 
 ## Seeking Assistance
@@ -63,7 +63,7 @@ For any issues at all, please reach out to the instructor:
 
 ## Collaboration Policy
 
-You are encouraged to discuss the content of this course with anyone you like; however, it is essential to maintain academic integrity in your work. All homework assignments, projects, and exams must be completed independently, meaning you are not permitted to copy any part of another student’s solution, collaborate with others on your assignments, or use solutions from unauthorized sources, including the Internet. Therefore, the solution you submit for each assignment must be solely your own, reflecting your understanding and effort.
+You are encouraged to discuss the content of this course with anyone you like; however, it is essential to maintain academic integrity in your work. All homework assignments, projects, and exams must be completed independently, meaning you are not permitted to copy any part of another student’s solution, collaborate with others on your assignments, or use solutions from unauthorized sources, including the Internet. **Therefore, the solution you submit for each assignment must be solely your own, reflecting your understanding and effort.**
 
 ## **Generative AI Usage Guidelines**
 
