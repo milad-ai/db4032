@@ -38,10 +38,10 @@ The course will include two exams. Both exams will assess the required readings 
 
 ## Grading
 - Class attendance and participation: 2 points 
-- Homeworks: 2 points
-- Final project: 4 points 
+- Homeworks: 4 points
+- Final project: 3 points 
 - Midterm exam: 4 points
-- Final exam: 8 points
+- Final exam: 7 points
 
 
 ## Seeking Assistance
