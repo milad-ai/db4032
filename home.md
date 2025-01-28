@@ -31,7 +31,7 @@ This course focuses on the design and modeling of databases. Students will learn
 ### Structure of the course
 
  - Meets Twice Weekly
-    - Main class: Monday, Wednesday 2:00PM-3:20PM 
+   - Saturday, Monday 17:00 - 18:30
  - There will be several assignments throughout the course for students to practice the material covered.
  - There will be a summative final project, in which students will integrate the tools and techniques they have learned into a cohesive whole. 
 
