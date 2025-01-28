@@ -5,7 +5,7 @@ description: Course policies and information.
 ---
 
 # Syllabus
-**Download the [syllabus]()**
+**Download the [syllabus]()** **(Farsi)** 
 ## **Topics Covered**
 - The Relational Data Model and Relational Algebra, Relational Calculus, Tuple Calculus
 - Structured Query Language (SQL) 
