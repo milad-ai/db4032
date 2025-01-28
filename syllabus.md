@@ -69,7 +69,7 @@ You are encouraged to discuss the content of this course with anyone you like; h
 
 ## **Generative AI Usage Guidelines**
 
-You are encouraged to use Generative AI tools like ChatGPT for general coding-related queries. However, refrain from asking these tools to directly solve problems from the course problem sets. Below are examples of acceptable questions:
+You are encouraged to use Generative AI tools like ChatGPT for general coding-related queries. **However, refrain from asking these tools to directly solve problems from the course problem sets.** Below are examples of acceptable questions:
 1. How can I remove duplicates in a SQL query?
 2. How do I handle database connection errors in Python?
 3. What are the differences between INNER JOIN and LEFT JOIN in SQL?
