@@ -21,6 +21,7 @@ There is no single textbook for this class. Instead, the material will be drawn 
 - Database System Concepts, By A. Silberschatz, H.F. Korth and S. Sudarshan, 7th Edition, 2020
 Other useful books which might be useful for some parts of the course are:
 - Database Concepts by David M. Kroenke, David J. Auer, Scott L. Vandenberg, and Robert C. Yoder, 9th Edition, 2020.
+- Database Principles: Fundamentals of Design, Implementation, and Management by Carlos Coronel, Steven Morris, Keeley Crockett, and Craig Blewett, Cengage, 3th Edition, 2020.
 **My lecture notes are sufficient for students to successfully pass the examination.**
 [Lecture notes](https://dbsbu.github.io//Notes/), [homework assignments](https://dbsbu.github.io//assignments/) and their solutions, and other supplementary materials will be made available on this website throughout the course. 
 
