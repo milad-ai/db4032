@@ -23,6 +23,8 @@ Cheat Sheet
 > -  [SQL JOIN Cheat Sheet](https://learnsql.com/blog/sql-join-cheat-sheet/)
 > -  [PostgreSQL Cheat Sheet](https://learnsql.com/blog/postgresql-cheat-sheet/)
 > -  [PostgreSQL command line cheatsheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
+> -  [PostgreSQL cheatsheet](https://quickref.me/postgres.html)
+
 Online resources to learn DuckDB 
 > -  [https://motherduck.com/blog/duckdb-tutorial-for-beginners/](https://motherduck.com/blog/duckdb-tutorial-for-beginners/)
 > -  [How DuckDB transformed my data science workflow](https://github.com/quangtiencs/duckdb-tutorial)
