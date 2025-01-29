@@ -40,6 +40,8 @@ Please follow the instructions to turn in your homework:
 
 The course will include **two exams**. Both exams will assess the required readings and topics covered in class. The first exam will be an "in-class" midterm, while the second will be a final exam scheduled during the University's final examination period at the end of the semester.
 
+**If you need to miss the midterm test due to illness or a family affliction, please contact me by email. A make-up exam for the midterm might be organized.**
+
 ## **Attendance and Participation**
 
 **Attendance is required**, and exceeding four absences may result in a penalty of up to 2 points off your total grade. Active participation in both in-class activities and the online message board is highly encouraged.
