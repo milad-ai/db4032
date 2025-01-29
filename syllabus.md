@@ -34,6 +34,11 @@ description: Course policies and information.
 
 Throughout the course, students will complete several homework assignments aimed at reinforcing the concepts covered in lectures and reading materials (See the [homework page](https://dbsbu.github.io//assignments/), which will be updated during the course). The due dates for these assignments will be posted on this website.
 
+Please follow the instructions to turn in your homework:
+- Homeworks must be submitted electronically as PDF files.
+- Files should be named according to the following scheme: HW<2-digits homework number>_<LastName>_<FirstName>.pdf. For instance, my first homework would be called HW01_Vazan_Milad.pdf.
+- Email your homework to **vazan.sbu@gmail.com**
+
 ## **Exams**
 
 The course will include **two exams**. Both exams will assess the required readings and topics covered in class. The first exam will be an "in-class" midterm, while the second will be a final exam scheduled during the University's final examination period at the end of the semester.
