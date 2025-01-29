@@ -24,3 +24,5 @@ Online resources related to Database Management Systems
 
 Online resources related to NoSQL
 > -  [NoSQL (cs186berkeley)](https://cs186berkeley.net/notes/note17/)
+> -  [MongoDB Tutorial](https://www.mongodbtutorial.org/)
+> -  [MongoDB Tutorial](https://www.quackit.com/mongodb/tutorial/)
