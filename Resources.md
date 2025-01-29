@@ -17,7 +17,7 @@ description: Resources
 
 Online resources related to **Relational Algebra**
 > -  [Relational Algebra Introduction (cs186berkeley)](https://cs186berkeley.net/notes/note6/)
-> -  [RelaX - relational algebra calculator - link 1](https://dbis-uibk.github.io/relax/)(https://nireas.iee.ihu.gr/relax/calc.htm)
+> -  [RelaX - relational algebra calculator - link 1](https://dbis-uibk.github.io/relax/)
 > -  [RelaX - relational algebra calculator - link 2](https://nireas.iee.ihu.gr/relax/calc.htm)
 
 Online resources related to **NoSQL**
