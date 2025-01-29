@@ -5,7 +5,7 @@ description: Course policies and information.
 ---
 
 # Syllabus
-**Download the [syllabus]()** **(Farsi)** 
+**Download the [syllabus](Syllabus.pdf)** **(Farsi)** 
 ## **Topics Covered**
 <!--- This is my first time teaching this course, so the list below may be subject to slight changes due to time constraints. --->
 - Principles and Basic Concepts
