@@ -9,7 +9,7 @@ description: Course policies and information.
 ## **Topics Covered**
 <!--- This is my first time teaching this course, so the list below may be subject to slight changes due to time constraints. --->
 - Principles and Basic Concepts
-- The Relational Data Modelو Relational Algebra, and Relational Calculus
+- The Relational Data Model, Relational Algebra, and Relational Calculus
 - Structured Query Language (SQL) 
 - The Entity-Relationship Data Model
 - Database Design Theory
