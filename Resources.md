@@ -26,7 +26,7 @@ Cheat Sheet
 > -  [PostgreSQL cheatsheet](https://quickref.me/postgres.html)
 
 Online resources to learn DuckDB 
-> -  [https://motherduck.com/blog/duckdb-tutorial-for-beginners/](https://motherduck.com/blog/duckdb-tutorial-for-beginners/)
+> -  [DuckDB Tutorial For Beginners](https://motherduck.com/blog/duckdb-tutorial-for-beginners/)
 > -  [How DuckDB transformed my data science workflow](https://github.com/quangtiencs/duckdb-tutorial)
 > -  [Basic tutorial and example scenario for using DuckDB](https://github.com/VillePuuska/DuckDB-examples)
 > -  [all about DuckDB](https://github.com/k0rsakov/all_about_DuckDB/blob/main/code/notebook_for_duckdb.ipynb)
