@@ -16,12 +16,13 @@ description: Course policies and information.
 - Introduction to NoSQL (comparing and contrasting MongoDB with relational systems)
 - Python database integration (connecting Python programs to both SQL and NoSQL databases)
 
-## **Recommended reading**
-**The material presented in the course is sufficient for students to successfully pass the examination.** However, for those who wish to engage in further study, the following references are recommended:
-
+## **Textbooks/Materials**
+There is no single textbook for this class. Instead, the material will be drawn from various texts and sources. For a general book that aligns with the course level, I recommend:
 - Database System Concepts, By A. Silberschatz, H.F. Korth and S. Sudarshan, 7th Edition, 2020
-- Fundamental of Database Systems, By R. Elmasri, 7th Edition, 2015
-- An Introduction to Database Systems, By C.J. Date, 8th Edition, 2003
+Other useful books which might be useful for some parts of the course are:
+- Database Concepts by David M. Kroenke, David J. Auer, Scott L. Vandenberg, and Robert C. Yoder, 9th Edition, 2020.
+**My lecture notes are sufficient for students to successfully pass the examination.**
+[Lecture notes](https://dbsbu.github.io//Notes/), [homework assignments](https://dbsbu.github.io//assignments/) and their solutions, and other supplementary materials will be made available on this website throughout the course. 
 
 ## **Structure of the course**
 <!-- Meets twice weekly -->
