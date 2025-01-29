@@ -10,12 +10,12 @@ published: true
 
 | Topic | Readings|
 |-------|-----------------------------|
-| Introduction | [Lecture Notes]()|
-| Introduction to the Relational Model | Lecture Notes|
-| Formal Relational Query Languages | Lecture Notes |
-| Database Design and the E-R Model | Lecture Notes |
-| Relational Database Design | Lecture Notes |
-| SQL | Lecture Notes 1, Lecture Notes 2, Lecture Notes 3|
-| PostgreSQL | Lecture Notes |
-| NoSQL | Lecture Notes |
-| SQL using Python | Lecture Notes |
+| Introduction | Lecture Notes 1|
+| Introduction to the Relational Model | Lecture Notes 1, 2, 3|
+| Formal Relational Query Languages | Lecture Notes 1, 2, 3 |
+| Database Design and the E-R Model | Lecture Notes 1, 2, 3 |
+| Relational Database Design | Lecture Notes 1, 2, 3 |
+| SQL | Lecture Notes 1, 2, 3|
+| PostgreSQL | Lecture Notes 1|
+| NoSQL | Lecture Notes 1 |
+| SQL using Python | Lecture Notes 1 |
