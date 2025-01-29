@@ -23,4 +23,4 @@ Online resources related to Database Management Systems
 > - [Tutorials Point PostgreSQL](https://www.tutorialspoint.com/postgresql/index.htm)
 
 Online resources related to NoSQL
-> -  [NoSQL(cs186berkeley)](https://cs186berkeley.net/notes/note17/)
+> -  [NoSQL (cs186berkeley)](https://cs186berkeley.net/notes/note17/)
