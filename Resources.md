@@ -13,8 +13,6 @@ Online resources related to Relational Algebra
 Online resources related to Database Management Systems
 > - [SQL Part - Basic Queries (cs186berkeley)](https://cs186berkeley.net/notes/note1/)
 > - [SQL Part 2 - Joins & Subqueries (cs186berkeley)](https://cs186berkeley.net/notes/note2/)
-> - [SQL Tutorial (W3Schools)](https://www.w3schools.com/sql/)
-> - [Tutorials Point SQL](https://www.tutorialspoint.com/sql/index.htm)
 > - [SQL Tutorial (sqltutorial)](https://www.sqltutorial.org/)
 > - [SQL Tutorial](https://mode.com/sql-tutorial/)
 > - [SQL Tutorial for Data Scientists & Data Analysts](https://datalemur.com/sql-tutorial)
@@ -26,3 +24,14 @@ Online resources related to NoSQL
 > -  [NoSQL (cs186berkeley)](https://cs186berkeley.net/notes/note17/)
 > -  [MongoDB Tutorial](https://www.mongodbtutorial.org/)
 > -  [MongoDB Tutorial](https://www.quackit.com/mongodb/tutorial/)
+
+Online resources to learn Pandas
+> -  [10 minutes to pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
+> -  [Complete Pandas Tutorial](https://github.com/KeithGalli/complete-pandas-tutorial/blob/master/tutorial.ipynb)
+> -  [Practice your pandas skills!](https://github.com/guipsamora/pandas_exercises?tab=readme-ov-file)
+> -  [Quick tutorial to show SQL using duckdb and Pandas](https://github.com/dipeshtech/sql_tutorial/blob/main/duck_db.ipynb)
+> -  []()
+> -  []()
+> -  []()
+> -  []()
+> -  []()
