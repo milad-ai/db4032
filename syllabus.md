@@ -16,29 +16,6 @@ description: Course policies and information.
 - Introduction to NoSQL (comparing and contrasting MongoDB with relational systems)
 - Python database integration (connecting Python programs to both SQL and NoSQL databases)
 
-## **Textbooks/Materials**
-**My lecture notes are sufficient for students to successfully pass the examination.**
-
-There is no single textbook for this class. Instead, the material will be drawn from various texts and sources. For a general book that aligns with the course level, I recommend:
-- Database System Concepts, By A. Silberschatz, H.F. Korth and S. Sudarshan, 7th Edition, 2020
-
-Other useful books which might be useful for some parts of the course are:
-- Database Concepts by David M. Kroenke, David J. Auer, Scott L. Vandenberg, and Robert C. Yoder, 9th Edition, 2020.
-- Database Principles: Fundamentals of Design, Implementation, and Management by Carlos Coronel, Steven Morris, Keeley Crockett, and Craig Blewett, Cengage, 3th Edition, 2020.
-- Concepts of Database Management by Lisa Friedrichsen, Lisa Ruffolo, Ellen Monk, Joy L. Starks, and Philip J. Pratt, Cengage Learning, 2020.
-- Grokking Relational Database Design by Dr. Qiang Hao and Dr. Michael Tsikerdekis, No Starch Press, 2024.
-- Practical SQL: A Beginner's Guide to Storytelling with Data by Anthony DeBarros, No Starch Press, 2nd Edition, 2022.
-- SQL for Data Science: Data Cleaning, Wrangling and Analytics with Relational Databases by Antonio Badia, Springer Nature Switzerland AG, 2020.
-- SQL for Data Scientists: A Beginner's Guide for Building Datasets for Analysis by Renée M. P. Teate, Wiley, 2021.
-- SQL for Data Analytics: Perform Fast and Efficient Data Analysis with the Power of SQL by Upom Malik, Matt Goldwasser, and Benjamin Johnston, Packt Publishing, 2019.
-- Learn PostgreSQL: Build and Manage High-Performance Database Solutions Using PostgreSQL 12 and 13 by Luca Ferrari and Enrico Pirozzi, Packt Publishing, 2020.
-- SQL Cookbook: Query Solutions and Techniques for All SQL Users by Anthony Molinaro and Robert de Graaf, O'Reilly Media, 2020.
-- Mastering MongoDB 6.x: Expert Techniques to Run High-Volume and Fault-Tolerant Database Solutions Using MongoDB 6.x, 3rd Edition by Alex Giamas, Packt Publishing, 2022.
-
-
-
-
-[Lecture notes](https://dbsbu.github.io//Notes/), [homework assignments](https://dbsbu.github.io//assignments/) and their solutions, and other supplementary materials will be made available on this website throughout the course. 
 
 ## **Structure of the course**
 <!-- Meets twice weekly -->
@@ -99,6 +76,30 @@ You are encouraged to use Generative AI tools like ChatGPT for general coding-re
 2. How do I handle database connection errors in Python?
 3. What are the differences between INNER JOIN and LEFT JOIN in SQL?
 4. What libraries are available for connecting Python to PostgreSQL?
+
+## **Textbooks/Materials**
+**My lecture notes are sufficient for students to successfully pass the examination.**
+
+There is no single textbook for this class. Instead, the material will be drawn from various texts and sources. For a general book that aligns with the course level, I recommend:
+- Database System Concepts, By A. Silberschatz, H.F. Korth and S. Sudarshan, 7th Edition, 2020
+
+Other useful books which might be useful for some parts of the course are:
+- Database Concepts by David M. Kroenke, David J. Auer, Scott L. Vandenberg, and Robert C. Yoder, 9th Edition, 2020.
+- Database Principles: Fundamentals of Design, Implementation, and Management by Carlos Coronel, Steven Morris, Keeley Crockett, and Craig Blewett, Cengage, 3th Edition, 2020.
+- Concepts of Database Management by Lisa Friedrichsen, Lisa Ruffolo, Ellen Monk, Joy L. Starks, and Philip J. Pratt, Cengage Learning, 2020.
+- Grokking Relational Database Design by Dr. Qiang Hao and Dr. Michael Tsikerdekis, No Starch Press, 2024.
+- Practical SQL: A Beginner's Guide to Storytelling with Data by Anthony DeBarros, No Starch Press, 2nd Edition, 2022.
+- SQL for Data Science: Data Cleaning, Wrangling and Analytics with Relational Databases by Antonio Badia, Springer Nature Switzerland AG, 2020.
+- SQL for Data Scientists: A Beginner's Guide for Building Datasets for Analysis by Renée M. P. Teate, Wiley, 2021.
+- SQL for Data Analytics: Perform Fast and Efficient Data Analysis with the Power of SQL by Upom Malik, Matt Goldwasser, and Benjamin Johnston, Packt Publishing, 2019.
+- Learn PostgreSQL: Build and Manage High-Performance Database Solutions Using PostgreSQL 12 and 13 by Luca Ferrari and Enrico Pirozzi, Packt Publishing, 2020.
+- SQL Cookbook: Query Solutions and Techniques for All SQL Users by Anthony Molinaro and Robert de Graaf, O'Reilly Media, 2020.
+- Mastering MongoDB 6.x: Expert Techniques to Run High-Volume and Fault-Tolerant Database Solutions Using MongoDB 6.x, 3rd Edition by Alex Giamas, Packt Publishing, 2022.
+
+
+
+
+[Lecture notes](https://dbsbu.github.io//Notes/), [homework assignments](https://dbsbu.github.io//assignments/) and their solutions, and other supplementary materials will be made available on this website throughout the course. 
 
 ## **A note on self care.** 
 Please take care of yourself. Do your best to maintain a healthy lifestyle this semester by eating well, exercising, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress. 
