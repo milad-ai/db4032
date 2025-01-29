@@ -17,12 +17,15 @@ description: Course policies and information.
 - Python database integration (connecting Python programs to both SQL and NoSQL databases)
 
 ## **Textbooks/Materials**
+**My lecture notes are sufficient for students to successfully pass the examination.**
+
 There is no single textbook for this class. Instead, the material will be drawn from various texts and sources. For a general book that aligns with the course level, I recommend:
 - Database System Concepts, By A. Silberschatz, H.F. Korth and S. Sudarshan, 7th Edition, 2020
 Other useful books which might be useful for some parts of the course are:
 - Database Concepts by David M. Kroenke, David J. Auer, Scott L. Vandenberg, and Robert C. Yoder, 9th Edition, 2020.
 - Database Principles: Fundamentals of Design, Implementation, and Management by Carlos Coronel, Steven Morris, Keeley Crockett, and Craig Blewett, Cengage, 3th Edition, 2020.
-**My lecture notes are sufficient for students to successfully pass the examination.**
+
+
 [Lecture notes](https://dbsbu.github.io//Notes/), [homework assignments](https://dbsbu.github.io//assignments/) and their solutions, and other supplementary materials will be made available on this website throughout the course. 
 
 ## **Structure of the course**
