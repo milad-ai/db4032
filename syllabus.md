@@ -86,7 +86,7 @@ You are encouraged to use Generative AI tools like ChatGPT for general coding-re
 There is no single textbook for this class. Instead, the material will be drawn from various texts and sources. For a general book that aligns with the course level, I recommend:
 - Database System Concepts, By A. Silberschatz, H.F. Korth and S. Sudarshan, 7th Edition, 2020
 
-Other useful books which might be useful for some parts of the course are:
+Other books which might be useful for some parts of the course are:
 - Database Concepts by David M. Kroenke, David J. Auer, Scott L. Vandenberg, and Robert C. Yoder, 9th Edition, 2020.
 - Database Principles: Fundamentals of Design, Implementation, and Management by Carlos Coronel, Steven Morris, Keeley Crockett, and Craig Blewett, Cengage, 3th Edition, 2020.
 - Concepts of Database Management by Lisa Friedrichsen, Lisa Ruffolo, Ellen Monk, Joy L. Starks, and Philip J. Pratt, Cengage Learning, 2020.
