@@ -30,8 +30,12 @@ Online resources to learn Pandas
 > -  [Complete Pandas Tutorial](https://github.com/KeithGalli/complete-pandas-tutorial/blob/master/tutorial.ipynb)
 > -  [Practice your pandas skills!](https://github.com/guipsamora/pandas_exercises?tab=readme-ov-file)
 > -  [Quick tutorial to show SQL using duckdb and Pandas](https://github.com/dipeshtech/sql_tutorial/blob/main/duck_db.ipynb)
-> -  []()
-> -  []()
-> -  []()
-> -  []()
-> -  []()
+> -  [the tutorial about how to use pandas, including its sql equivalent statements](https://github.com/damien2012eng/TUTORIAL_Pandas.panda/blob/master/pandas_SQL.ipynb)
+
+Online resources to learn DuckDB 
+> -  [https://motherduck.com/blog/duckdb-tutorial-for-beginners/](https://motherduck.com/blog/duckdb-tutorial-for-beginners/)
+> -  [How DuckDB transformed my data science workflow](https://github.com/quangtiencs/duckdb-tutorial)
+> -  [Basic tutorial and example scenario for using DuckDB](https://github.com/VillePuuska/DuckDB-examples)
+> -  [all about DuckDB](https://github.com/k0rsakov/all_about_DuckDB/blob/main/code/notebook_for_duckdb.ipynb)
+> -  [SQL for data analysis - sql + pandas + duckdb](https://github.com/mpiaggio-mutt/sql-pandas/blob/main/src/main.ipynb)
+> -  [Practical SQL for Data Analysis](https://hakibenita.com/sql-for-data-analysis#pandas-and-sql-better-together)
