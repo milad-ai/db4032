@@ -6,6 +6,8 @@ description: Resources
 # Resources
 
 **Cheat Sheet**
+> -  [SQL Cheat Sheet](https://www.interviewbit.com/sql-cheat-sheet/)
+> -  [SQL Commands Cheat Sheet](https://www.freecodecamp.org/news/learn-sql-in-10-minutes/)
 > -  [SQL Cheat Sheet](https://www.dbvis.com/wp-content/uploads/2024/04/SQL-Cheat-Sheet.pdf)
 > -  [SQL Basics Cheat Sheet](https://learnsql.com/blog/sql-basics-cheat-sheet/)
 > -  [SQL for Data Analysis Cheat Sheet](https://learnsql.com/blog/sql-for-data-analysis-cheat-sheet/)
