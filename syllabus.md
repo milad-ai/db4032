@@ -8,7 +8,7 @@ description: Course policies and information.
 **Download the [syllabus]()** **(Farsi)** 
 ## **Topics Covered**
 - Principles and Basic Concepts
-- The Relational Data Model and Relational Algebra, Relational Calculus, Tuple Calculus
+- The Relational Data Modelو Relational Algebra, and Relational Calculus
 - Structured Query Language (SQL) 
 - The Entity-Relationship Data Model
 - Database Design Theory
