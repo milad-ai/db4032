@@ -36,7 +36,9 @@ Throughout the course, students will complete several homework assignments aimed
 
 Please follow the instructions to turn in your homework:
 - Homeworks must be submitted electronically as PDF files.
-- Files should be named according to the following scheme: HW<2-digits homework number>\_\<LastName>\_\<FirstName>.pdf. For instance, my first homework would be called HW01_Vazan_Milad.pdf.
+- Files should be named according to the following scheme:
+   - HW<2-digits homework number>\_\<LastName>\_\<FirstName>.pdf.
+   - For instance, my first homework would be called HW01_Vazan_Milad.pdf.
 - Email your homework to **vazan.sbu@gmail.com**
 
 ## **Exams**
