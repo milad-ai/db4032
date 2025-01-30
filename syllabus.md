@@ -84,7 +84,7 @@ You are encouraged to use Generative AI tools like ChatGPT for general coding-re
 **My lecture notes are sufficient for students to successfully pass the examination.**
 
 There is no single textbook for this class. Instead, the material will be drawn from various texts and sources. For a general book that aligns with the course level, I recommend:
-- Database System Concepts, By A. Silberschatz, H.F. Korth and S. Sudarshan, 7th Edition, 2020
+- [Database System Concepts, By A. Silberschatz, H.F. Korth and S. Sudarshan, 7th Edition, 2020](https://www.db-book.com/index.html)
 
 Other books which might be useful for some parts of the course are:
 - Database Concepts by David M. Kroenke, David J. Auer, Scott L. Vandenberg, and Robert C. Yoder, 9th Edition, 2020.
@@ -113,6 +113,10 @@ Other books which might be useful for some parts of the course are:
 - [UC Berkeley - Introduction to Database Systems](https://cs186berkeley.net/)
 - [CARNEGIE MELLON UNIVERSITY - Database Systems](https://15445.courses.cs.cmu.edu/spring2024/schedule.html)
 - [University of Washington - Introduction to Database Systems](https://courses.cs.washington.edu/courses/cse414/)
+- [The University of Chicago - Introduction to Database Systems](https://classes.cs.uchicago.edu/archive/2023/spring/23500-1/)
+- [University of Waterloo - CS 348: Introduction to Database Systems](https://cs.uwaterloo.ca/~smaiyya/cs348/)
+- [NTHU - CS 471000 Introduction to Database Systems](https://nthu-datalab.github.io/db/)
+- [The Ohio State University - Introduction to Database Systems](https://syllabi.engineering.osu.edu/syllabi/cse_3241)
 
 ## **A note on self care.** 
 Please take care of yourself. Do your best to maintain a healthy lifestyle this semester by eating well, exercising, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress. 
