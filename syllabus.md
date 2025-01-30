@@ -107,7 +107,8 @@ Other books which might be useful for some parts of the course are:
 
 
 ## Related Courses
-### Other Databases courses
+### Other Databases courses 
+<!--- ### What is this course like in other places?--->
 - [New York University - Database Design & Implementation](https://knowledge.kitchen/content/courses/database-design/schedule/)
 - [UC Berkeley - Introduction to Database Systems](https://cs186berkeley.net/)
 - [CARNEGIE MELLON UNIVERSITY - Database Systems](https://15445.courses.cs.cmu.edu/spring2024/schedule.html)
