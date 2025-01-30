@@ -104,6 +104,15 @@ Other books which might be useful for some parts of the course are:
 
 [Lecture notes](https://dbsbu.github.io//Notes/), [homework assignments](https://dbsbu.github.io//assignments/) and their solutions, and other supplementary materials will be made available on this website throughout the course. 
 
+
+
+## Related Courses
+### Other Databases courses
+- [New York University - Database Design & Implementation](https://knowledge.kitchen/content/courses/database-design/schedule/)
+- [UC Berkeley - Introduction to Database Systems](https://cs186berkeley.net/)
+- [CARNEGIE MELLON UNIVERSITY - Database Systems](https://15445.courses.cs.cmu.edu/spring2024/schedule.html)
+- [University of Washington - Introduction to Database Systems](https://courses.cs.washington.edu/courses/cse414/)
+
 ## **A note on self care.** 
 Please take care of yourself. Do your best to maintain a healthy lifestyle this semester by eating well, exercising, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress. 
 
