@@ -51,7 +51,6 @@ Please follow the instructions to turn in your homework:
 - Homeworks must be submitted electronically as PDF files.
 - Files should be named according to the following scheme:
    - HW<2-digits homework number>\_\<LastName>\_\<FirstName>.pdf.
-     {: 	.text-red-300 }
    - For instance, my first homework would be called HW01_Vazan_Milad.pdf.
 - Email your homework to **vazan.sbu@gmail.com**
 
@@ -102,7 +101,7 @@ You are encouraged to use Generative AI tools like ChatGPT for general coding-re
 
 ## **Textbooks/Materials**
 **My lecture notes are sufficient for students to successfully pass the examination.**
-
+{: 	.text-red-300 }
 There is no single textbook for this class. Instead, the material will be drawn from various texts and sources. For a general book that aligns with the course level, I recommend:
 - [Database System Concepts, By A. Silberschatz, H.F. Korth and S. Sudarshan, 7th Edition, 2020](https://www.db-book.com/index.html)
 
