@@ -1,6 +1,6 @@
 ---
 layout: page
-title: exams
+title: Exams
 permalink: /exams/
 has_children: true
 nav_order: 3
