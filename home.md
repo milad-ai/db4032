@@ -20,7 +20,7 @@ This course covers the fundamentals of database management, including conceptual
 > Once these foundational concepts are well understood, the course transitions to more advanced topics in data. These include performing data analysis on real datasets using SQL, integrating SQL with Python for enhanced data manipulation and querying, and comparing NoSQL databases such as MongoDB with traditional relational systems.
 
 ### Learning Goals
-
+{: 	.text-green-200 }
  Upon successful completion of this course, the student will be able to:
 
 - Introduce fundamental concepts, terminology, and applications of databases.
