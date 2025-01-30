@@ -106,7 +106,7 @@ Other books which might be useful for some parts of the course are:
 
 
 
-## Related Courses
+## **Related Courses**
 ### Other Databases courses 
 <!--- ### What is this course like in other places?--->
 - [New York University - Database Design & Implementation](https://knowledge.kitchen/content/courses/database-design/schedule/)
