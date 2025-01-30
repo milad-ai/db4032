@@ -26,7 +26,7 @@ Online resources related to **PostgreSQL**
 > - [Top 10 PostgreSQL Extensions (With Code + Example)](https://hevodata.com/learn/top-postgresql-extensions/)
 > - [PostgreSQL SELECT Statement: Syntax, Parameters & Examples](https://hevodata.com/learn/what-is-postgresql-select-statement/)
 > - [How to Use the PostgreSQL UNION & UNION ALL Operators: Easy Steps and Examples Explained](https://hevodata.com/learn/postgresql-union/)
-> - [Working with PostgreSQL Subquery | A 101 Guide](https://hevodata.com/learn/postgresql-subquery/)
+> - [Working with PostgreSQL Subquery](https://hevodata.com/learn/postgresql-subquery/)
 
 
 
