@@ -58,7 +58,9 @@ Please follow the instructions to turn in your homework:
 
 The course will include **two exams**. Both exams will assess the required readings and topics covered in class. The first exam will be an "in-class" [midterm](https://dbsbu.github.io//exams/midterm), while the second will be a [final exam](https://dbsbu.github.io//exams/final) scheduled during the University's final examination period at the end of the semester.
 
-**If you need to miss the midterm test due to illness or a family affliction, please contact me by email. A make-up exam for the midterm might be organized.**
+{: .new-title }
+> **If you need to miss the midterm test due to illness or a family affliction, please contact me by email. A make-up exam for the midterm might be organized.**
+
 
 ## **Attendance and Participation**
 
