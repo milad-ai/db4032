@@ -17,6 +17,20 @@ description: Resources
 > -  [PostgreSQL command line cheatsheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
 > -  [PostgreSQL cheatsheet](https://quickref.me/postgres.html)
 
+Online resources related to **PostgreSQL**
+> -  [PostgreSQL vs SQL Server (MSSQL): Detailed Comparison](https://hevodata.com/learn/postgresql-vs-sql-server-key-differences/)
+> - [PostgreSQL Tutorial](https://neon.tech/postgresql/tutorial)
+> - [Tutorials Point PostgreSQL](https://www.tutorialspoint.com/postgresql/index.htm)
+> - [Understanding Postgres Full Text Search: 10 Critical Aspects](https://hevodata.com/blog/postgresql-full-text-search-setup/)
+> - [PostgreSQL Query Optimization: 10 Best Tricks & Techniques (Explained with Code)](https://hevodata.com/learn/postgresql-query-optimization/)
+> - [Top 10 PostgreSQL Extensions (With Code + Example)](https://hevodata.com/learn/top-postgresql-extensions/)
+> - [PostgreSQL SELECT Statement: Syntax, Parameters & Examples](https://hevodata.com/learn/what-is-postgresql-select-statement/)
+> - [How to Use the PostgreSQL UNION & UNION ALL Operators: Easy Steps and Examples Explained](https://hevodata.com/learn/postgresql-union/)
+> - [Working with PostgreSQL Subquery | A 101 Guide](https://hevodata.com/learn/postgresql-subquery/)
+
+
+
+
 Online resources related to **Relational Algebra**
 > -  [Relational Algebra Introduction (cs186berkeley)](https://cs186berkeley.net/notes/note6/)
 > -  [RelaX - relational algebra calculator - link 1](https://dbis-uibk.github.io/relax/)
@@ -50,6 +64,6 @@ Online resources related to **Database Management Systems**
 > - [SQL Tutorial](https://mode.com/sql-tutorial/)
 > - [SQL Tutorial for Data Scientists & Data Analysts](https://datalemur.com/sql-tutorial)
 > - [SQLBolt Learn SQL with simple, interactive exercises](https://sqlbolt.com/)
-> - [PostgreSQL Tutorial](https://neon.tech/postgresql/tutorial)
-> - [Tutorials Point PostgreSQL](https://www.tutorialspoint.com/postgresql/index.htm)
+
+
 
