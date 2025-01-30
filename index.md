@@ -17,7 +17,7 @@ seo:
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-### [Syllabus](https://dbsbu.github.io//syllabus/)  🧐
+#### [Syllabus](https://dbsbu.github.io//syllabus/)  🧐
 
 ## Course Objectives
 
