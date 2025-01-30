@@ -2,7 +2,7 @@
 layout: page
 title: Final Exam  
 permalink: /exams/final
-parent: exams
+parent: Exams
 published: true
 ---
 
