@@ -2,13 +2,12 @@
 layout: page
 title: Lecture Notes
 permalink: /Notes/
-has_children: true
+has_children: false
 nav_order: 2
 published: true
 ---
-{:toc}
 # Readings
-
+[note 1](/Notes/ch1)
 | Topic | Readings|
 |-------|-----------------------------|
 | Introduction | Lecture Notes 1|
