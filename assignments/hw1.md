@@ -11,6 +11,7 @@ published: true
 In this homework, you will be practicing using 
 
 # تمرین شماره 1
+{: .text-right }
 در این تمرین
 {: .text-right }
 
