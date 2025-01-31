@@ -7,7 +7,7 @@ nav_order: 2
 published: true
 ---
 # Readings
-[note 1](/Notes/ch1)
+
 | Topic | Readings|
 |-------|-----------------------------|
 | Introduction | Lecture Notes 1|
