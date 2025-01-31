@@ -2,7 +2,7 @@
 layout: page
 title: ch1  
 permalink: /Notes/ch1
-<!---parent: Lecture --->
+parent: Lecture
 published: true
 ---
 
