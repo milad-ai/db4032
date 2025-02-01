@@ -27,6 +27,9 @@ Online resources related to **PostgreSQL**
 > - [PostgreSQL SELECT Statement: Syntax, Parameters & Examples](https://hevodata.com/learn/what-is-postgresql-select-statement/)
 > - [How to Use the PostgreSQL UNION & UNION ALL Operators: Easy Steps and Examples Explained](https://hevodata.com/learn/postgresql-union/)
 > - [Working with PostgreSQL Subquery](https://hevodata.com/learn/postgresql-subquery/)
+> - [Build your first REST API with Flask and PostgreSQL](https://blog.teclado.com/first-rest-api-flask-postgresql-python/amp/)
+> - [Making a Flask app using a PostgreSQL database](https://www.geeksforgeeks.org/making-a-flask-app-using-a-postgresql-database/)
+> - [Flask Postgres basic setup](https://www.janmeppe.com/blog/flask-postgres-basic-setup/)
 
 
 
