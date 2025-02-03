@@ -1,7 +1,7 @@
 ---
-title: Week 0 Announcement
-week: 0
-date: 2019-04-01
+title: جلسه اول
+week: 1
+date: 2025-02-08
 ---
 
-Welcome to class
+معرفی دوره 
