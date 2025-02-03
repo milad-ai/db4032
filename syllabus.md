@@ -5,7 +5,7 @@ description: Course policies and information.
 ---
 
 # Syllabus
-**Download the [syllabus](Syllabus.pdf)** **(Farsi)** 
+**Download the [syllabus](Syllabus.pdf)** **(Farsi)** or [Online](https://dbsbu.github.io/syllabus_fa.html) 
 #### [Home](https://dbsbu.github.io)
 ## **Topics Covered**
 <!--- This is my first time teaching this course, so the list below may be subject to slight changes due to time constraints. --->
