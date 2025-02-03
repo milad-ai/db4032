@@ -7,6 +7,9 @@ description: Resources
 
 **Online Editor**
 > - [PostgreSQL Online Editor](https://onecompiler.com/postgresql)
+> - [SQL Online Compiler - Next gen SQL Editor](https://sqliteonline.com/)
+> - [Online SQL Editor](https://www.programiz.com/sql/online-compiler/)
+
 **Cheat Sheet**
 > -  [SQL Cheat Sheet](https://www.interviewbit.com/sql-cheat-sheet/)
 > -  [SQL Commands Cheat Sheet](https://www.freecodecamp.org/news/learn-sql-in-10-minutes/)
