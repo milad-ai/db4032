@@ -11,6 +11,8 @@ description: A listing of all the course staff members.
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
+
+**Phone:** +98 937 017 4459
 {% endfor %}
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
@@ -28,9 +30,8 @@ description: A listing of all the course staff members.
 -->
 <!--
 # About the Instructor
-### Education
 -->
-
+### Education
 
 **Shahid Beheshti University**   
 Computer Science - Soft Computing and Artificial Intelligence  
