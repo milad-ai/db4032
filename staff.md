@@ -31,7 +31,7 @@ description: A listing of all the course staff members.
 <!--
 # About the Instructor
 -->
-### Education
+## Education
 
 **Shahid Beheshti University**   
 Computer Science - Soft Computing and Artificial Intelligence  
