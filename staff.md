@@ -22,14 +22,16 @@ description: A listing of all the course staff members.
 {{ staffer }}
 {% endfor %}
 {% endif %}
+
 <!--
 # Contact Information
 -->
-**Phone:** +98 937 017 4459
 <!--
 # About the Instructor
 ### Education
 -->
+
+
 **Shahid Beheshti University**   
 Computer Science - Soft Computing and Artificial Intelligence  
 - Ph.D.  (2023 - 2027)
