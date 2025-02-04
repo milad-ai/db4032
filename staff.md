@@ -50,9 +50,12 @@ Computer Science - Soft Computing and Artificial Intelligence
   - Selected as the Exceptionally Talented
 
 
-## TEACHING EXPERIENCE
+## Teaching experience
 
-### Kashmar Institute of Higher Education (Spring 2023  )
+### Shahid Beheshti University (Spring 2025)
+- **Database**
+
+### Kashmar Institute of Higher Education (Spring 2023)
 - **Data Structures and Algorithms**  
 - **Computer Architecture**  
 - **Principles of Computer Systems**  
