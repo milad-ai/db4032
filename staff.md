@@ -32,7 +32,7 @@ description: A listing of all the course staff members.
 # About the Instructor
 -->
 ## Education
-
+{: 	.text-green-200 }
 **Shahid Beheshti University**   
 Computer Science - Soft Computing and Artificial Intelligence  
 - Ph.D.  (2023 - 2027)
@@ -51,7 +51,7 @@ Computer Science - Soft Computing and Artificial Intelligence
 
 
 ## Teaching experience
-
+{: 	.text-green-200 }
 ### Shahid Beheshti University (Spring 2025)
 - **Database**
 
