@@ -56,20 +56,20 @@ Computer Science - Soft Computing and Artificial Intelligence
 - **Database**
 
 ### Kashmar Institute of Higher Education (Spring 2023)
-- **Data Structures and Algorithms**  
-- **Computer Architecture**  
-- **Principles of Computer Systems**  
-- **Theory of Languages and Automata**  
-- **Principles of Data Science**  [link](http://ds.miladvazan.ir/) 
+- Data Structures and Algorithms 
+- Computer Architecture
+- Principles of Computer Systems
+- Theory of Languages and Automata  
+- Principles of Data Science  [link](http://ds.miladvazan.ir/) 
 
 ### Kashmar Institute of Higher Education (Fall 2022)
-- **Artificial Intelligence and Expert Systems** [link](http://ai1401k.miladvazan.ir/) 
-- **Computer Architecture**  
+- Artificial Intelligence and Expert Systems [link](http://ai1401k.miladvazan.ir/) 
+- Computer Architecture
 
 ### Islamic Azad University, Bardaskan Branch (Fall 2022)
-- **Artificial Intelligence**  
-- **Data Structure**  
-- **Computer Architecture**  
+- Artificial Intelligence  
+- Data Structure
+- Computer Architecture 
 
   
 <!--
