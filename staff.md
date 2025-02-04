@@ -7,7 +7,7 @@ description: A listing of all the course staff members.
 # Staff
 
 ## Instructors
-
+{: 	.text-green-200 }
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
