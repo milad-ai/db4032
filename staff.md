@@ -12,7 +12,6 @@ description: A listing of all the course staff members.
 {% for staffer in instructors %}
 {{ staffer }}
 
-**Phone:** +98 937 017 4459
 {% endfor %}
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
@@ -53,7 +52,7 @@ Computer Science - Soft Computing and Artificial Intelligence
 ## Teaching experience
 {: 	.text-green-200 }
 ### Shahid Beheshti University (Spring 2025)
-- **Database**
+- Database
 
 ### Kashmar Institute of Higher Education (Spring 2023)
 - Data Structures and Algorithms 
