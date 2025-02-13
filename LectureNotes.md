@@ -10,7 +10,7 @@ published: true
 
 | Topic | Readings|
 |-------|-----------------------------|
-| Introduction | [Lecture Notes](/Notes/ch1)|
+| Introduction | [Lecture Notes](/lectures/ch1.pdf)|
 | Introduction to the Relational Model | Lecture Notes 1, 2, 3|
 | Formal Relational Query Languages | Lecture Notes 1, 2, 3 |
 | Database Design and the E-R Model | Lecture Notes 1, 2, 3 |
