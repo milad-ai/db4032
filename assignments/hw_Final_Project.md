@@ -10,5 +10,6 @@ published: true
 **پروژه نهایی**
 {: .text-right }
 {: .fs-7 }
+[دانلود](/assignments/پروژه نهایی.pdf)
 
 
