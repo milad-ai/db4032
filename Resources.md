@@ -22,6 +22,10 @@ description: Resources
 > -  [PostgreSQL command line cheatsheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
 > -  [PostgreSQL cheatsheet](https://quickref.me/postgres.html)
 
+**SQL & Data Interview Questions**
+> -  [Practice the most common SQL, Statistics, ML, and Python questions asked in FAANG Data Science & Data Analyst interviews!](https://datalemur.com/questions?difficulty=Easy&category=SQL)
+
+
 Online resources related to **PostgreSQL**
 > -  [PostgreSQL vs SQL Server (MSSQL): Detailed Comparison](https://hevodata.com/learn/postgresql-vs-sql-server-key-differences/)
 > - [PostgreSQL Tutorial](https://neon.tech/postgresql/tutorial)
