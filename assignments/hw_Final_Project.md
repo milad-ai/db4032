@@ -11,5 +11,6 @@ published: true
 {: .text-right }
 {: .fs-7 }
 [دانلود](/assignments/پروژه نهایی.pdf)
-
+{: .text-right }
+{: .fs-6 }
 
