@@ -53,6 +53,7 @@ Computer Science - Soft Computing and Artificial Intelligence
 {: 	.text-green-200 }
 ### Shahid Beheshti University (Spring 2025)
 - Database
+- Technical Analysis (Machine Learning and Data Analytics in Finance)
 
 ### Kashmar Institute of Higher Education (Spring 2023)
 - Data Structures and Algorithms 
