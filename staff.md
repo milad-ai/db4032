@@ -52,8 +52,8 @@ Computer Science - Soft Computing and Artificial Intelligence
 ## Teaching experience
 {: 	.text-green-200 }
 ### Shahid Beheshti University (Spring 2025)
-- Database
-- Technical Analysis (Machine Learning and Data Analytics in Finance)
+- [Database](https://dbsbu.github.io/)
+- [Technical Analysis (Machine Learning and Data Analytics in Finance)](https://ta-sbu.github.io/)
 
 ### Kashmar Institute of Higher Education (Spring 2023)
 - Data Structures and Algorithms 
