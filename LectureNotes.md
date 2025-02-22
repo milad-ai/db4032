@@ -13,7 +13,7 @@ published: true
 | Introduction | [Lecture Notes](/lectures/ch1.pdf)|
 | Introduction to the Relational Model | Lecture Notes 1, 2, 3|
 | Formal Relational Query Languages | Lecture Notes 1, 2, 3 |
-| Database Design and the E-R Model | Lecture Notes 1, 2, 3 |
+| Database Design and the E-R Model | Lecture Notes [1](/lectures/فصل دوم- بخش اول.pdf), 2, 3 |
 | Relational Database Design | Lecture Notes 1, 2, 3 |
 | SQL | Lecture Notes 1, 2, 3|
 | PostgreSQL | Lecture Notes 1|
