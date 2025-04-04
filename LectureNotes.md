@@ -11,11 +11,10 @@ published: true
 | Topic | Readings|
 |-------|-----------------------------|
 | Introduction | [Lecture Notes](/lectures/ch1.pdf)|
-| Introduction to the Relational Model | Lecture Notes 1, 2, 3|
-| Formal Relational Query Languages | Lecture Notes 1, 2, 3 |
-| Database Design and the E-R Model | Lecture Notes [1](/lectures/ch2-1.pdf), 2, 3 |
-| Relational Database Design | Lecture Notes 1, 2, 3 |
-| SQL | Lecture Notes 1, 2, 3|
-| PostgreSQL | Lecture Notes 1|
+| Database Design and the E-R Model |  [Lecture Notes](/lectures/ch2.pdf) |
+| Converting ERD to a relational model|  [Lecture Notes](/lectures/ch3.pdf) |
+| SQL (PostgreSQL) | Lecture Notes|
+<!--
 | NoSQL | Lecture Notes 1 |
 | SQL using Python | Lecture Notes 1 |
+-->
