@@ -26,6 +26,8 @@ description: Resources
 > -  [Practice the most common SQL, Statistics, ML, and Python questions asked in FAANG Data Science & Data Analyst interviews!](https://datalemur.com/questions?difficulty=Easy&category=SQL)
 
 
+**[SQL Projects for Beginners with Solutions and Explanation](https://www.w3resource.com/projects/sql/sql-projects-for-beginners.php)**
+
 Online resources related to **PostgreSQL**
 > -  [PostgreSQL vs SQL Server (MSSQL): Detailed Comparison](https://hevodata.com/learn/postgresql-vs-sql-server-key-differences/)
 > - [PostgreSQL Tutorial](https://neon.tech/postgresql/tutorial)
