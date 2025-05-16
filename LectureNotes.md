@@ -12,6 +12,7 @@ published: true
 - [Ch 1: Introduction](/lectures/ch1.pdf)
 - [Ch 2: Database Design and the E-R Model](/lectures/ch2.pdf)
 - [Ch 3: Converting ERD to a relational model](/lectures/ch3.pdf)
+- [Ch 4: SQL](/lectures/ch4.pdf)
 
 <!--
 | Topic | Readings|
