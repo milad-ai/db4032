@@ -14,7 +14,7 @@ published: true
 - [Ch 3: Converting ERD to a relational model](/lectures/ch3.pdf)
 - [Ch 4: SQL](/lectures/ch4.pdf)
 - [Ch 5: Advanced SQL Concepts](/lectures/Ch5.pdf)
-- [Ch 6: SQL](/lectures/Ch6.pdf)
+- [Ch 6: Selected Topics in SQL](/lectures/Ch6.pdf)
 
 <!--
 | Topic | Readings|
