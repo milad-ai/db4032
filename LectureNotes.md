@@ -16,6 +16,8 @@ published: true
 - [Ch 5: Advanced SQL Concepts](/lectures/Ch5.pdf)
 - [Ch 6: Selected Topics in SQL](/lectures/Ch6.pdf)
 
+- 
+
 
 <!--
 | Topic | Readings|
