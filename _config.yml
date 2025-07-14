@@ -18,7 +18,7 @@ tagline: Database - 1403_2
 description: Shahid Beheshti University |  Faculty of Mathematical Science
 author: Milad Vazan
 #baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://dbsbu.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://db4032.miladai.ir' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 logo: "/assets/images/sbu.png"
 
